@@ -6,6 +6,6 @@ This is a travel website template for beginner using htm and css only by Shivam 
 1. Pure html and css
 2. Flexbox
 
-# Reaources
+# Resources
 1. Pexels -> for the images
 2. Manvscode -> Youtube channel for the project video
